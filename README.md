@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AariF-ShazZ
 &label=Profile%20views&color=0e75b6&style=flat" alt="AariF-ShazZ" /> </p>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
+<img src="https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-89475469/89475469.jpg" alt="img" align="right" width="400"/>
        I am student at MASAI SCHOOL
 
 - 🔭 I’m currently working on my Portfolio Website :grin:
