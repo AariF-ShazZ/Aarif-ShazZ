@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Aarif ShazZ</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarif-shazz&label=Profile%20views&color=0e75b6&style=flat" alt="aarif-shazz" /> </p>
+<h1 align="center">Hi 👋, I'm Aarif</h1>
+<h3 align="center">A Passionate Full Stack Web developer From India</h3>
 
-- 🌱 I’m currently learning **Fullstack Development**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AariF-ShazZ&label=Profile%20views&color=0e75b6&style=flat" alt="AariF-ShazZ" /> </p>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
+       I am student at MASAI SCHOOL
 
-- 📝 I regularly write articles on [https://medium.com/@shazaarif0](https://medium.com/@shazaarif0)
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning Data Visualization.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2022 Goals : Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/shubham-jha-61824512b/" target="blank">Let's get in touch!</a>
+- 🧗 I try to : Go beyond and push the bounds
+- ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
 
-- 📫 How to reach me **shazaarif0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<br>
+<div>
+  <h3 align="left">Languages and Tools:</h3>
  <div align="center"><h3 align="center">Frontend</h3>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
    <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
@@ -29,9 +34,9 @@
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-     <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=black" align="center" alt="mongoose"/>
  </div>
 
+ <br/>
  <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
@@ -43,7 +48,20 @@
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <br/>
    <br/>
- </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarif-shazz&show_icons=true&locale=en&layout=compact" alt="aarif-shazz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarif-shazz&" alt="aarif-shazz" /></p>
+ </div> 
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariF-ShazZ
+&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="ariF-ShazZ"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=AariF-ShazZ
+&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="AariF-ShazZ
+" /></p>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<p>
+<a href="https://github.com/AariF-ShazZ/30dayofJavascript">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AariF-ShazZ&repo=30dayofJavascript&theme=dark" />
+</a>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AariF-ShazZ" alt="AariF-ShazZ" /></p>
+</p>
