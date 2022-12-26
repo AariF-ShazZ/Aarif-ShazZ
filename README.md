@@ -1,8 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Aarif</h1>
+<h1 align="center">Hi 👋, I'm AariF-ShazZ
+</h1>
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AariF-ShazZ&label=Profile%20views&color=0e75b6&style=flat" alt="AariF-ShazZ" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AariF-ShazZ
+&label=Profile%20views&color=0e75b6&style=flat" alt="AariF-ShazZ" /> </p>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
        I am student at MASAI SCHOOL
 
@@ -50,8 +52,10 @@
    <br/>
  </div> 
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariF-ShazZ
-&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="ariF-ShazZ"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AariF-ShazZ
+
+&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="AariF-ShazZ
+"/>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AariF-ShazZ
 &hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="AariF-ShazZ
 " /></p>
