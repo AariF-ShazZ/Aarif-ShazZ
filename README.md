@@ -59,8 +59,5 @@
 <br></br>
 <br></br>
 <p>
-<a href="https://github.com/AariF-ShazZ/30dayofJavascript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AariF-ShazZ&repo=30dayofJavascript&theme=dark" />
-</a>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AariF-ShazZ" alt="AariF-ShazZ" /></p>
 </p>
