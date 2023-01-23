@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm AariF-ShazZ
 </h1>
-<h3 align="center">A Passionate Full Stack Web developer From India</h3>
+<h3 align="center">Aspiring MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AariF-ShazZ&label=Profile%20views&color=0e75b6&style=flat" alt="AariF-ShazZ" /> </p>
 <img src="https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-89475469/89475469.jpg" alt="img" align="right" width="400"/>
