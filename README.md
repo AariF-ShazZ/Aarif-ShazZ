@@ -14,8 +14,9 @@
 - 🧗 I try to : Go beyond and push the bounds <br><br>
 
 <div display="flex" width="200px" background-color="red"> 
-       <img href="https://www.linkedin.com/in/aarif-shazz-638647208/" src="https://wallpaperaccess.com/full/2068758.jpg" align="center" alt="html5" width="100" >
-<img href="https://aarif-shazz.github.io/" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGM38jC3ht3R5tMTpKy3blkXYvYIq_g62Wn3aTVXWGWHfG0qIvj_ROXMt0UWt6YWDCg&usqp=CAU" align="center" alt="html5" width="170"> 
+       <a href="https://www.linkedin.com/in/aarif-shazz-638647208/"> <img  src="https://wallpaperaccess.com/full/2068758.jpg" align="center" alt="html5" width="100" ></a>
+     <a href="https://www.linkedin.com/in/aarif-shazz-638647208/"><img href="https://aarif-shazz.github.io/" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGM38jC3ht3R5tMTpKy3blkXYvYIq_g62Wn3aTVXWGWHfG0qIvj_ROXMt0UWt6YWDCg&usqp=CAU" align="center" alt="html5" width="170"> </a>     
+
 </div>
 <br>
 <br>
