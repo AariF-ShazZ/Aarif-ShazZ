@@ -12,7 +12,6 @@
 - 🥅 2022 Goals : Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to : Go beyond and push the bounds <br><br>
-- LinkedIn => https://www.linkedin.com/in/aarif-shazz-638647208/ <br>
 - Portfolio => https://aarif-shazz.github.io/ 
 <br>
 <br>
