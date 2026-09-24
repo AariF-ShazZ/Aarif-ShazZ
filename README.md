@@ -13,11 +13,11 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to : Go beyond and push the bounds <br><br>
 
-<div width="400px"  background="blue"> 
+<!-- <div width="400px"  background="blue"> 
        <a href="https://www.linkedin.com/in/aarif-khan-fullstackdeveloper/" > <img  src="https://wallpaperaccess.com/full/2068758.jpg" align="center" alt="html5" width="100" ></a> 
      <a href="https://aarif-shazz.github.io/"><img href="https://aarif-shazz.github.io/" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGM38jC3ht3R5tMTpKy3blkXYvYIq_g62Wn3aTVXWGWHfG0qIvj_ROXMt0UWt6YWDCg&usqp=CAU" align="center" alt="html5" width="185"> </a>     
 
-</div>
+</div> -->
 <br>
 <br>
 <div>
